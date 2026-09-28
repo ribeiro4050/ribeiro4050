@@ -1,3 +1,7 @@
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ribeiro4050.visitor-badge&left_color=blue&right_color=red" />
+<br>
+
 ## Olá, me chamo Gustavo e sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de São Paulo 👋
 
 ### 🧠 Linguagens de Programação
